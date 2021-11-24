@@ -1,5 +1,7 @@
 /CMakeFiles
 /build*/*
+/install/*
+/log/*
 /examples/hello_world/build
 /.settings
 /doc
